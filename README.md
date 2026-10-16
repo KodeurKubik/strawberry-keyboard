@@ -1,5 +1,7 @@
 # 🍓 strawberry
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/KodeurKubik/strawberry-keyboard/tree/main/PCB)
+
 my own little hackpad to play Celeste!
 
 ## Demo?
