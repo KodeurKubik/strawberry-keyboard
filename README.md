@@ -25,7 +25,7 @@ Trying to not being messy, here's how it is! (no this is not AI made!)
 
 ```
 |- assets    # ignore, it's just github assets lol
-|- case      # 3d models for the case
+|- CAD       # 3d models for the case
 |- firmware  # firmware for the keyboard
 |- PCB       # KiCad PCB and schematics
 ```
