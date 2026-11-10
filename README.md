@@ -13,6 +13,9 @@ I'll try getting a demo out after receiving and building the keyboard :D
 strawberry 3d case:
 ![3d case](./assets/strawberry_3d.png)
 
+and the top case (temporary for now, i'll print multiple tests to make it cool! and paint it :p)
+![3d top case](./assets/strawberry_3d_top.png)
+
 cool PCB!
 ![3d case](./assets/strawberry_pcb.png)
 
